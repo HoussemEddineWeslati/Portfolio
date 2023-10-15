@@ -3189,13 +3189,13 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 480px) {
+		/* @media screen and (max-width: 480px) {
 
 			.pagination .page, .pagination .extra {
 				display: none;
 			}
 
-		}
+		} */
 
 	.pagination a, .pagination span {
 		border-color: #eeeeee;
